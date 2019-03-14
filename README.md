@@ -4,7 +4,7 @@
 </h2>
 </h1>
 
-<h1 align="center">
+<h1 align="left">
 <img float="center" src="/images/img/Ethics.png" width=200 />
 </h1>
 

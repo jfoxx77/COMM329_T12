@@ -1,6 +1,5 @@
-<h1 style="text-float: center">
-Organizational Ethics, Individual Ethics & Ethical Intentions in Decision-Making
-</h1>
+
+# Organizational Ethics, Individual Ethics & Ethical Intentions in Decision-Making
 
 <h1 align="center">
 <img float="center" src="/images/img/Ethics.png" width=200 />

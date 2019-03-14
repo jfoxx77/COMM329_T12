@@ -1,10 +1,14 @@
 
-# Organizational Ethics, Individual Ethics & Ethical Intentions in Decision-Making
+# Decision-Making: Organizational and Individual Ethics & Ethical Intentions
 
 <h1 align="center">
 <img float="center" src="/images/img/Ethics.png" width=200 />
 </h1>
 
+Ethics, be it from an individual or organizational standpoint, often influences decision-making. This workshop focuses on how individual ethics (IE) and organization ethics (OE) both impact ethical intentions (EI).
 
-
-### The
+## Key Terms
+* Individual Ethics (IE):
+* Organizational Ethics (OE):
+* Ethical Intentions (EI):
+* Ethical Congruence:

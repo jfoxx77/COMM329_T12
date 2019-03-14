@@ -14,9 +14,15 @@ Ethics, be it from an individual or organizational standpoint, often influences 
 
 ### Key Terms
 
+The following terms are central to the
+
 * Individual Ethics (IE):
 * Organizational Ethics (OE):
 * Ethical Intentions (EI):
 * Ethical Congruence:
 
-### 
+### Case Study
+
+> In 2016, doctors at the MassGeneral Hospital for children were tasked with carrying out surgery on the pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs.
+
+> Following a medical examination, it was determined that only one of the girls would survive. Furthermore, as the hospital's chairman on pediatrics articulated to the parents of the twins, if the surgery was not done, both twins would die.

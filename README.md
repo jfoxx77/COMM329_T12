@@ -1,4 +1,4 @@
-<h1 style="text-align: center">
+<h1 style="text-float: center">
 Organizational Ethics, Individual Ethics & Ethical Intentions in Decision-Making
 </h1>
 

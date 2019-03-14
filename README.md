@@ -1,7 +1,5 @@
 # Organizational Ethics, Individual Ethics & Ethical Intentions in Decision-Making
 
-<center>
-![Ethics](Ethics.png)
-</center>
+<img float="center" src="/img/Ethics.png"/>
 
 ### The

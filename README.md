@@ -26,3 +26,7 @@ The following terms are central to the
 > In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on the pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs.
 
 > Following medical examination, doctors determined that only one of the girls would survive surgery. Furthermore, as the hospital's chairman on pediatrics articulated to the parents of the twins, if the surgery was not done, both twins would die.
+
+```
+In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on the pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs.
+```

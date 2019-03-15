@@ -22,6 +22,11 @@ The following terms are pertinent to understanding the subsequent case study and
 * Ethical Intentions (EI): An individual's or organization's intent to engage in ethical behaviour.
 * Ethical Congruence: The correspondence between an individual's values and the values held by an organization.
 
+### Introduction
+
+
+
+
 ### Case Study
 
 > In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on the pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs. Note, performing such a surgery would require over 100 doctors of varying specializations.

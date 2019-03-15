@@ -19,19 +19,21 @@ The following terms are pertinent to understanding the subsequent case study and
 
 * Individual Ethics (IE): The moral beliefs held by any one person about what is right and wrong.
 * Organizational Ethics (OE): Encompasses the ethical values and practices of an organization.
-* Ethical Intentions (EI): An individual's or organization's intent to engage in ethical behaviour.
+* Ethical Intentions (EI): The intent to engage in ethical behaviour.
 * Ethical Congruence: The correspondence between an individual's values and the values held by an organization.
 
-### Introduction
+### What to Expect
 
+The workshop will focus on how **IE** and **OE** influence each other and the different variables that affect them individually. Additionally, there will be a discussion around how both *IE** and **OE** impact one's intent to behave (un)ethically (EI).
 
+* The workshop will use a model known as the 'Moral Utility Theory' to help explain the drivers behind **IE** decision-making. The theory uses the notion of 'Subjective Expected Utility (SEU)' to predict ethical behaviour. Mathematically, **SEU = Expectation x Subjective Utility**. The idea is that people select behaviors that are expected to result in the greatest subjective utility (values or satisfaction).
 
 
 ### Case Study
 
-> In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on the pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs. Note, performing such a surgery would require over 100 doctors of varying specializations.
+> In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on a pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs. Performing such a surgery would require over 100 doctors of varying specializations.
 
 > Following medical examination, doctors determined that only one of the girls would survive surgery. Furthermore, as the hospital's chairman on pediatrics articulated to the parents of the twins, if the surgery was not done, both twins would die.
 
 
-*As Chairman of the Hospital's committee on pediatric ethics, what decision would you make under such circumstances? Also consider the ethical dilemmas that both the doctors and parents of the twins face. Could you think of a situation in which there is low ethical congruence here?*
+*As Chairman of the Hospital's committee on pediatric ethics, what decision would you make under such circumstances? Also consider the ethical dilemmas that both the doctors and parents of the twins face. What would it mean for there to be low ethical congruence here?*

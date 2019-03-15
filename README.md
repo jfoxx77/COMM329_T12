@@ -13,6 +13,11 @@ Ethics, be it from an individual or organizational standpoint, often influences 
 
 ## Pre-Work
 
+### Refresher
+
+(*Optional*)
+If the topic of ethics is still a bit fuzzy, it is recommended that you take the time to solidify the concept with [this short video](https://www.youtube.com/watch?v=uvmz5E75ZIA).
+
 ### Key Terms
 
 The following terms are pertinent to understanding the subsequent case study and the actual workshop:

@@ -26,7 +26,7 @@ The following terms are pertinent to understanding the subsequent case study and
 
 The workshop will focus on how **IE** and **OE** influence each other and the different variables that affect them individually. Additionally, there will be a discussion around how both **IE** and **OE** impact one's intent to behave (un)ethically (EI).
 
-* The workshop will use a model known as the '[Moral Utility Theory](/articles/hirsh2018)' to help explain the drivers behind **IE** decision-making. The theory uses the notion of 'Subjective Expected Utility (SEU)' to predict ethical behaviour. Mathematically, **SEU = Expectation x Subjective Utility**. The idea is that people select behaviors that are expected to result in the greatest subjective utility (values or satisfaction).
+* The workshop will use a model known as the '[Moral Utility Theory](/articles/hirsh2018.pdf)' to help explain the drivers behind **IE** decision-making. The theory uses the notion of 'Subjective Expected Utility (SEU)' to predict ethical behaviour. Mathematically, **SEU = Expectation x Subjective Utility**. The idea is that people select behaviors that are expected to result in the greatest subjective utility (values or satisfaction).
 
 
 ### Case Study

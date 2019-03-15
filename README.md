@@ -9,7 +9,7 @@
 <img float="center" src="/images/img/Ethics.png" width=200 />
 </h1>
 
-Ethics, be it from an individual or organizational standpoint, often influences decision-making. This workshop focuses on how individual ethics (IE) and organizational ethics (OE) both impact ethical intentions (EI).
+Ethics, be it from an individual or organizational standpoint, often influences decision-making. This workshop focuses on how individual ethics (**IE**) and organizational ethics (**OE**) both impact ethical intentions (**EI**).
 
 ## Pre-Work
 
@@ -17,10 +17,10 @@ Ethics, be it from an individual or organizational standpoint, often influences 
 
 The following terms are pertinent to understanding the subsequent case study and the actual workshop:
 
-* Individual Ethics (IE): The moral beliefs held by any one person about what is right and wrong.
-* Organizational Ethics (OE): Encompasses the ethical values and practices of an organization.
-* Ethical Intentions (EI): The intent to engage in ethical behaviour.
-* Ethical Congruence: The correspondence between an individual's values and the values held by an organization.
+* **Individual Ethics (IE)**: The moral beliefs held by any one person about what is right and wrong.
+* **Organizational Ethics (OE)**: Encompasses the ethical values and practices of an organization.
+* **Ethical Intentions (EI)**: The intent to engage in ethical behaviour.
+* **Ethical Congruence**: The correspondence between an individual's values and the values held by an organization.
 
 ### What to Expect
 

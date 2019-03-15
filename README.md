@@ -1,7 +1,7 @@
 <h1 align="left">
 <img float="center" src="/images/img/Sauder.png" width=250 />
 <h2>Decision-Making: Organizational and Individual Ethics & Ethical Intentions
-
+<br> </br>
 </h2>
 </h1>
 

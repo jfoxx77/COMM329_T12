@@ -15,19 +15,18 @@ Ethics, be it from an individual or organizational standpoint, often influences 
 
 ### Key Terms
 
-The following terms are central to the
+The following terms are pertinent to understanding the subsequent case study and the actual workshop:
 
-* Individual Ethics (IE):
-* Organizational Ethics (OE):
-* Ethical Intentions (EI):
-* Ethical Congruence:
+* Individual Ethics (IE): The moral beliefs held by any one person about what is right and wrong.
+* Organizational Ethics (OE): Encompasses the ethical values and practices of an organization.
+* Ethical Intentions (EI): An individual's or organization's intent to engage in ethical behaviour.
+* Ethical Congruence: The correspondence between an individual's values and the values held by an organization.
 
 ### Case Study
 
-> In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on the pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs. Note that performing such a surgery would require over 100 doctors; some of varying specializations.
+> In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on the pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs. Note, performing such a surgery would require over 100 doctors of varying specializations.
 
 > Following medical examination, doctors determined that only one of the girls would survive surgery. Furthermore, as the hospital's chairman on pediatrics articulated to the parents of the twins, if the surgery was not done, both twins would die.
 
-> Note, the surgery would require a team of over 100 doctors.
 
-*As Chairman of the Hospital's committee on pediatric ethics, what decision would you make under such circumstances? Also consider the ethical dilemmas that both the doctors and parents of the twins face. Could you think of a situation in which there is low ethical congruence?*
+*As Chairman of the Hospital's committee on pediatric ethics, what decision would you make under such circumstances? Also consider the ethical dilemmas that both the doctors and parents of the twins face. Could you think of a situation in which there is low ethical congruence here?*

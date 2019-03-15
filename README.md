@@ -39,8 +39,6 @@ The workshop will focus on how **IE** and **OE** influence each other and the di
 > In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on a pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs. Performing such a surgery would require over 100 doctors of varying specializations.
 
 > Following medical examination, doctors determined that only one of the girls would survive surgery. Furthermore, as the hospital's chairman on pediatrics articulated to the parents of the twins, if the surgery was not done, both twins would die.
-
-
 >> *As Chairman of the Hospital's committee on pediatric ethics, what decision would you make under such circumstances? Also consider the ethical dilemmas that both the doctors and parents of the twins face. What would it mean for there to be low ethical congruence here?*
 
 The actual article published in the New England Journal of Medicine can be accessed [here](https://www.nejm.org/doi/full/10.1056/NEJMcpc1706105).

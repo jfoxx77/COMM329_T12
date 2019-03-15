@@ -28,4 +28,6 @@ The following terms are central to the
 
 > Following medical examination, doctors determined that only one of the girls would survive surgery. Furthermore, as the hospital's chairman on pediatrics articulated to the parents of the twins, if the surgery was not done, both twins would die.
 
-As Chairman of the Hospital's committee of pediatric ethics, what decision would you make under such circumstances? Also consider the ethical dilemma that both the doctors and parents of the twins face.  
+> Note, the surgery would require a team of over 100 doctors.
+
+As Chairman of the Hospital's committee on pediatric ethics, what decision would you make under such circumstances? Also consider the ethical dilemmas that both the doctors and parents of the twins face.  

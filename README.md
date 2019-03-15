@@ -1,6 +1,6 @@
 <h1 align="left">
 <img float="center" src="/images/img/Sauder.png" width=250 />
-<h2 align="center">Decision-Making: Organizational and Individual Ethics & Ethical Intentions
+<h2 align="center"> Decision-Making: Organizational and Individual Ethics & Ethical Intentions
 <br> </br>
 </h2>
 </h1>
@@ -24,7 +24,7 @@ The following terms are central to the
 
 ### Case Study
 
-> In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on the pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs.
+> In 2016, doctors at the [MassGeneral Hospital for Children](https://www.massgeneral.org/children/)  were challenged with the decision of carrying out surgery on the pair of conjoined twins. The twins were joined from the thorax to the pelvis, shared a liver and bladder, and had three legs. Note that performing such a surgery would require over 100 doctors; some of varying specializations.
 
 > Following medical examination, doctors determined that only one of the girls would survive surgery. Furthermore, as the hospital's chairman on pediatrics articulated to the parents of the twins, if the surgery was not done, both twins would die.
 

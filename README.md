@@ -30,4 +30,4 @@ The following terms are central to the
 
 > Note, the surgery would require a team of over 100 doctors.
 
-As Chairman of the Hospital's committee on pediatric ethics, what decision would you make under such circumstances? Also consider the ethical dilemmas that both the doctors and parents of the twins face.  
+**As Chairman of the Hospital's committee on pediatric ethics, what decision would you make under such circumstances? Also consider the ethical dilemmas that both the doctors and parents of the twins face. Could you think of a situation in which there is low ethical congruence?**
